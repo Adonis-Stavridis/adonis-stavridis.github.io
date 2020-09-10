@@ -5,7 +5,7 @@ export class Home extends Component {
   render() {
     return (
       <Page>
-        <div className="Home">
+        <div className="Home" id="Home">
           <h1>Home</h1>
         </div>
       </Page>

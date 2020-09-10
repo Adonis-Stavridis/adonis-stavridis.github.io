@@ -5,7 +5,7 @@ export class Contact extends Component {
   render() {
     return (
       <Page>
-        <div className="Contact">
+        <div className="Contact" id="Contact">
           <h1>Contact</h1>
         </div>
       </Page>

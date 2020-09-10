@@ -1,0 +1,16 @@
+.NavBar {
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: column;
+
+  a {
+    margin: 5px;
+    text-align: left;
+    text-decoration: none;
+    color: gold;
+  }
+}
