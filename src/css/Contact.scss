@@ -1,0 +1,15 @@
+.contactLogo {
+  width: calc(50px + 2vmin);
+  height: calc(50px + 2vmin);
+}
+
+.contactInfo {
+  tr td {
+    padding: 10px;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
