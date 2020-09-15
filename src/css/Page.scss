@@ -1,10 +1,14 @@
 .Page {
   width: 100%;
   margin: auto;
-  margin-bottom: calc(50px + 2vmin);
 
   .Content {
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding: 4vh 10vw;
+  }
+}
+
+@media (max-width:991px) {
+  .Page .Content {
+    padding: 2vh 5vw;
   }
 }

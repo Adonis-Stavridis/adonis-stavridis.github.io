@@ -1,0 +1,41 @@
+.scholarshipInfo {
+  margin: 25px;
+  padding: 40px;
+  color: snow;
+  background-color: #383838;
+  border-radius: 10px;
+}
+
+.degreeTitle {
+  h2 {
+    display: inline;
+  }
+
+  h3 {
+    display: inline;
+    margin-left: 20px;
+    color: orange;
+  }
+
+  h4 {
+    display: inline;
+    color: darkgray;
+  }
+
+  h5 {
+    display: inline;
+    margin-left: 20px;
+    color: #686868;
+  }
+}
+
+@media (max-width:991px) {
+  .degreeTitle {
+
+    h3,
+    h5 {
+      display: block;
+      margin-left: 0px;
+    }
+  }
+}
