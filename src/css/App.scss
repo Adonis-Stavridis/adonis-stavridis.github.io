@@ -3,7 +3,6 @@ html {
 }
 
 .App {
-  // text-align: center;
   background-color: #282828;
   min-height: 100vh;
   display: flex;
@@ -11,5 +10,13 @@ html {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: gold;
+
+  h1 {
+    color: gold;
+  }
+
+  p {
+    color: silver;
+    font-size: calc(10px + 1.5vmin);
+  }
 }
