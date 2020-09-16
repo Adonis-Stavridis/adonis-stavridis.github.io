@@ -5,7 +5,7 @@ export class Scholarship extends Component {
   render() {
     return (
       <Page>
-        <div className="Scholarship">
+        <div className="Scholarship" id="Scholarship">
           <h1>Scholarship</h1>
         </div>
       </Page>
