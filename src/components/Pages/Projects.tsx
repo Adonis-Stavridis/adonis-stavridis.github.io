@@ -5,6 +5,10 @@ import CardColumns from "react-bootstrap/CardColumns";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
+import DogeProject from "../../img/dogeproject.png";
+import WebsiteProject from "../../img/websiteproject.jpeg";
+import CubosProject from "../../img/cubosproject.png";
+
 import "../../css/Projects.scss";
 
 export class Projects extends Component {
@@ -17,6 +21,7 @@ export class Projects extends Component {
           <CardColumns className="cardsDeck">
             <Card className="projectCard">
               <Card.Header as="h3">VS Code Extension</Card.Header>
+              <Card.Img variant="top" src={DogeProject} />
               <Card.Body>
                 <Card.Title as="h2">
                   Doge
@@ -58,6 +63,7 @@ export class Projects extends Component {
 
             <Card className="projectCard">
               <Card.Header as="h3">Personal website</Card.Header>
+              <Card.Img variant="top" src={WebsiteProject} />
               <Card.Body>
                 <Card.Title as="h2">adonis-stavridis.github.io</Card.Title>
                 <Card.Text>
@@ -75,7 +81,7 @@ export class Projects extends Component {
                 <Card.Text>
                   A small project to build an online personal website as a
                   Portfolio, for my entire work. In fact, you are viewing it
-                  right now !
+                  right now!
                 </Card.Text>
               </Card.Body>
               <Card.Footer>
@@ -92,6 +98,7 @@ export class Projects extends Component {
 
             <Card className="projectCard">
               <Card.Header as="h3">3D Modeling Software</Card.Header>
+              <Card.Img variant="top" src={CubosProject} />
               <Card.Body>
                 <Card.Title as="h2">Cubos</Card.Title>
                 <Card.Text>
@@ -113,7 +120,7 @@ export class Projects extends Component {
                 </Card.Text>
                 <Card.Text>
                   A WIP project where I am building an easy to use 3D modeling
-                  software !
+                  software!
                 </Card.Text>
               </Card.Body>
               <Card.Footer>
