@@ -1,19 +1,23 @@
 .scholarshipInfo {
-  margin: 25px;
-  padding: 40px;
+  margin: 2em;
   color: snow;
-  background-color: #383838;
-  border-radius: 10px;
+
+  &.jumbotron {
+    background-color: #383838;
+    border-radius: 0.5em;
+  }
 }
 
 .degreeTitle {
+  margin-bottom: 1em;
+
   h2 {
     display: inline;
   }
 
   h3 {
     display: inline;
-    margin-left: 20px;
+    margin-left: 0.5em;
     color: orange;
   }
 
@@ -24,7 +28,7 @@
 
   h5 {
     display: inline;
-    margin-left: 20px;
+    margin-left: 0.5em;
     color: #686868;
   }
 }
@@ -35,7 +39,7 @@
     h3,
     h5 {
       display: block;
-      margin-left: 0px;
+      margin-left: 0em;
     }
   }
 }

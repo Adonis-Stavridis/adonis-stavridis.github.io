@@ -1,5 +1,4 @@
 import React from "react";
-import NavBar from "./NavBar";
 import Home from "./Pages/Home";
 import AboutMe from "./Pages/AboutMe";
 import Experience from "./Pages/Experience";
