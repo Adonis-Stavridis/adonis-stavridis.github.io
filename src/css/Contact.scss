@@ -4,7 +4,7 @@
 }
 
 .contactInfo {
-  padding: 2em; //TODO : align padding with rest of website
+  margin: 2em;
 
   tr td {
     padding: 1em;
@@ -19,5 +19,11 @@
       text-decoration: none;
       color: inherit;
     }
+  }
+}
+
+@media (max-width:991px) {
+  .contactInfo {
+    margin: 0em;
   }
 }
