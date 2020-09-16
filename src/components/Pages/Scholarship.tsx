@@ -20,7 +20,13 @@ export class Scholarship extends Component {
               <h4>University of Strasbourg</h4>
               <h5>2020-2022</h5>
             </div>
-            <p>Currently pursuing</p>
+            <p>
+              Main Courses:
+              <br />
+              Compilation · Advanced Algorithmic · 3D Graphics Programming ·
+              Architecture and Web Development · Computer Security ·
+              Computer-Aided Proving · Statistics
+            </p>
           </Jumbotron>
 
           <Jumbotron className="scholarshipInfo">
