@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecf60f48.chunk.css",
-    "main.js": "/static/js/main.b0046fa0.chunk.js",
-    "main.js.map": "/static/js/main.b0046fa0.chunk.js.map",
+    "main.css": "/static/css/main.903e1c13.chunk.css",
+    "main.js": "/static/js/main.3b018933.chunk.js",
+    "main.js.map": "/static/js/main.3b018933.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b6e31e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b6e31e5.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.f083e580.chunk.js": "/static/js/2.f083e580.chunk.js",
-    "static/js/2.f083e580.chunk.js.map": "/static/js/2.f083e580.chunk.js.map",
+    "static/js/2.3599cb2d.chunk.js": "/static/js/2.3599cb2d.chunk.js",
+    "static/js/2.3599cb2d.chunk.js.map": "/static/js/2.3599cb2d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.48fea759980fc2f089e776c80f33bdce.js": "/precache-manifest.48fea759980fc2f089e776c80f33bdce.js",
+    "precache-manifest.082ee91b51a8d5fba937190c9e28fe39.js": "/precache-manifest.082ee91b51a8d5fba937190c9e28fe39.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.ecf60f48.chunk.css.map": "/static/css/main.ecf60f48.chunk.css.map",
-    "static/js/2.f083e580.chunk.js.LICENSE.txt": "/static/js/2.f083e580.chunk.js.LICENSE.txt"
+    "static/css/main.903e1c13.chunk.css.map": "/static/css/main.903e1c13.chunk.css.map",
+    "static/js/2.3599cb2d.chunk.js.LICENSE.txt": "/static/js/2.3599cb2d.chunk.js.LICENSE.txt",
+    "static/media/Home-logo.png": "/static/media/Home-logo.19ed7c8b.png",
+    "static/media/animaforumproject.jpg": "/static/media/animaforumproject.16644b3a.jpg",
+    "static/media/breakoutproject.png": "/static/media/breakoutproject.6f563ea4.png",
+    "static/media/chararecproject.png": "/static/media/chararecproject.0e5b7af8.png",
+    "static/media/cubosproject.png": "/static/media/cubosproject.5cb16bb1.png",
+    "static/media/datashareproject.png": "/static/media/datashareproject.eb82bcc6.png",
+    "static/media/dogeproject.png": "/static/media/dogeproject.9b3f012d.png",
+    "static/media/lifeofamirproject.png": "/static/media/lifeofamirproject.f47c6d25.png",
+    "static/media/me.jpeg": "/static/media/me.09cb2545.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b6e31e5.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.f083e580.chunk.js",
-    "static/css/main.ecf60f48.chunk.css",
-    "static/js/main.b0046fa0.chunk.js"
+    "static/js/2.3599cb2d.chunk.js",
+    "static/css/main.903e1c13.chunk.css",
+    "static/js/main.3b018933.chunk.js"
   ]
 }
