@@ -10,6 +10,7 @@ export class Home extends Component {
         <div className="Home" id="Home">
           <div className="homeContent">
             <h1>{/*Hello There!*/}</h1>
+            <h2>{/*Scroll down to learn more about myself!*/}</h2>
           </div>
         </div>
       </Page>
