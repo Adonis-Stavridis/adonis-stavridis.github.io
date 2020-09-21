@@ -6,7 +6,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 import DogeProject from "../../img/dogeproject.png";
-import WebsiteProject from "../../img/websiteproject.jpeg";
+import WebsiteProject from "../../img/websiteproject.png";
 import CubosProject from "../../img/cubosproject.png";
 import DatashareProject from "../../img/datashareproject.png";
 import ChararecProject from "../../img/chararecproject.png";
