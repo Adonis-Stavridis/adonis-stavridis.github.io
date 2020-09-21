@@ -332,7 +332,10 @@ export class Projects extends Component {
                     alt="CSS3"
                   />
                 </Card.Text>
-                <Card.Text>A game of life played inside the terminal</Card.Text>
+                <Card.Text>
+                  A Breakout game with different levels of difficulty and a
+                  scoreboard system
+                </Card.Text>
               </Card.Body>
               <Card.Footer>
                 <Button
@@ -402,7 +405,9 @@ export class Projects extends Component {
                     alt="Blender"
                   />
                 </Card.Text>
-                <Card.Text>A small RPG single-player game made in the Unity Engine</Card.Text>
+                <Card.Text>
+                  A small RPG single-player game made in the Unity Engine
+                </Card.Text>
               </Card.Body>
               <Card.Footer>
                 <Button
