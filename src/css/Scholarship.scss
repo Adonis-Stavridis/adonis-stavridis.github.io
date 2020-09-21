@@ -36,6 +36,10 @@
 @media (max-width:991px) {
   .scholarshipInfo {
     margin: 0em;
+
+    &.jumbotron {
+      margin-bottom: 2em;
+    }
   }
 
   .degreeTitle {
