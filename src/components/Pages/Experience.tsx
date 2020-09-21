@@ -10,7 +10,7 @@ export class Experience extends Component {
     return (
       <Page>
         <div className="Experience" id="Experience">
-          <h1>Scholarship</h1>
+          <h1>Experience</h1>
 
           <Jumbotron className="experienceInfo">
             <div className="positionTitle">
@@ -21,13 +21,15 @@ export class Experience extends Component {
               <h5>June 2020 - July 2020</h5>
             </div>
             <p>
-              • Developed tools for a 3D modeling library using combinatorial map principles for structuring mesh topology
+              • Developed tools for a 3D modeling library using combinatorial
+              map principles for structuring mesh topology
             </p>
             <p>
               • Implemented a vertex, edge and face translation tool as well as
               extrude and bevel functionalities
             </p>
           </Jumbotron>
+
           <Jumbotron className="experienceInfo">
             <div className="positionTitle">
               <h2>Intern</h2>

@@ -5,6 +5,8 @@
 
 .contactInfo {
   margin: 2em;
+  table-layout: fixed;
+  width: 100%;
 
   tr td {
     padding: 1em;
@@ -25,5 +27,9 @@
 @media (max-width:991px) {
   .contactInfo {
     margin: 0em;
+
+    td {
+      word-wrap: break-word;
+    }
   }
 }
