@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6814941b.chunk.css",
+    "main.css": "/static/css/main.143e580a.chunk.css",
     "main.js": "/static/js/main.c0ae0f35.chunk.js",
     "main.js.map": "/static/js/main.c0ae0f35.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b6e31e5.js",
@@ -9,10 +9,10 @@
     "static/js/2.3599cb2d.chunk.js": "/static/js/2.3599cb2d.chunk.js",
     "static/js/2.3599cb2d.chunk.js.map": "/static/js/2.3599cb2d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a55e03ab352a42818e21f064cd72fc07.js": "/precache-manifest.a55e03ab352a42818e21f064cd72fc07.js",
+    "precache-manifest.7c89f179fad9ededf429d0a1296ccefc.js": "/precache-manifest.7c89f179fad9ededf429d0a1296ccefc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.6814941b.chunk.css.map": "/static/css/main.6814941b.chunk.css.map",
+    "static/css/main.143e580a.chunk.css.map": "/static/css/main.143e580a.chunk.css.map",
     "static/js/2.3599cb2d.chunk.js.LICENSE.txt": "/static/js/2.3599cb2d.chunk.js.LICENSE.txt",
     "static/media/Home-logo.png": "/static/media/Home-logo.19ed7c8b.png",
     "static/media/animaforumproject.jpg": "/static/media/animaforumproject.16644b3a.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.9b6e31e5.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.3599cb2d.chunk.js",
-    "static/css/main.6814941b.chunk.css",
+    "static/css/main.143e580a.chunk.css",
     "static/js/main.c0ae0f35.chunk.js"
   ]
 }
