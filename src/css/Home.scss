@@ -8,40 +8,22 @@
     border-right: solid 3px snow;
     white-space: nowrap;
     overflow: hidden;
-    animation: cursor 750ms steps(29, end) infinite;
+    animation: animated-cursor 750ms steps(29, end) infinite;
 
     &:after {
       content: "";
       width: 100%;
       height: 100%;
       animation:
-        text-box 2s steps(29, end) 1s 1 normal both;
-      animation: hello-there 2s linear 1;
+        animated-text 2s steps(29, end) 1s 1 normal both;
+      animation: abomination1 2s linear 1;
       animation-fill-mode: forwards;
-    }
-  }
-
-  h2 {
-    border-right: solid 3px snow;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: cursor 750ms steps(29, end) infinite;
-
-    &:after {
-      content: "";
-      width: 100%;
-      height: 100%;
-      animation:
-        text-box 2s steps(29, end) 1s 1 normal both;
-      animation: scroll-down 4s linear 1;
-      animation-fill-mode: forwards;
-      animation-delay: 2.5s;
     }
   }
 
 }
 
-@keyframes text-box {
+@keyframes animated-text {
   from {
     width: 0;
   }
@@ -51,7 +33,7 @@
   }
 }
 
-@keyframes cursor {
+@keyframes animated-cursor {
   from {
     border-right-color: snow;
   }
@@ -61,7 +43,7 @@
   }
 }
 
-@keyframes hello-there {
+@keyframes abomination1 {
   0% {
     content: "H";
   }
@@ -104,167 +86,5 @@
 
   100% {
     content: "Hello World!";
-  }
-}
-
-@keyframes scroll-down {
-  0% {
-    content: "S";
-  }
-
-  2% {
-    content: "Sc";
-  }
-
-  5% {
-    content: "Scr";
-  }
-
-  7% {
-    content: "Scro";
-  }
-
-  10% {
-    content: "Scrol";
-  }
-
-  12% {
-    content: "Scroll";
-  }
-
-  15% {
-    content: "Scroll ";
-  }
-
-  17% {
-    content: "Scroll d";
-  }
-
-  20% {
-    content: "Scroll do";
-  }
-
-  22% {
-    content: "Scroll dow";
-  }
-
-  25% {
-    content: "Scroll down";
-  }
-
-  27% {
-    content: "Scroll down ";
-  }
-
-  30% {
-    content: "Scroll down t";
-  }
-
-  30% {
-    content: "Scroll down to";
-  }
-
-  32% {
-    content: "Scroll down to ";
-  }
-
-  35% {
-    content: "Scroll down to l";
-  }
-
-  37% {
-    content: "Scroll down to le";
-  }
-
-  40% {
-    content: "Scroll down to lea";
-  }
-
-  42% {
-    content: "Scroll down to lear";
-  }
-
-  45% {
-    content: "Scroll down to learn";
-  }
-
-  47% {
-    content: "Scroll down to learn ";
-  }
-
-  50% {
-    content: "Scroll down to learn m";
-  }
-
-  52% {
-    content: "Scroll down to learn mo";
-  }
-
-  55% {
-    content: "Scroll down to learn mor";
-  }
-
-  57% {
-    content: "Scroll down to learn more";
-  }
-
-  60% {
-    content: "Scroll down to learn more ";
-  }
-
-  62% {
-    content: "Scroll down to learn more a";
-  }
-
-  65% {
-    content: "Scroll down to learn more ab";
-  }
-
-  67% {
-    content: "Scroll down to learn more abo";
-  }
-
-  70% {
-    content: "Scroll down to learn more abou";
-  }
-
-  72% {
-    content: "Scroll down to learn more about";
-  }
-
-  75% {
-    content: "Scroll down to learn more about ";
-  }
-
-  77% {
-    content: "Scroll down to learn more about m";
-  }
-
-  80% {
-    content: "Scroll down to learn more about my";
-  }
-
-  82% {
-    content: "Scroll down to learn more about mys";
-  }
-
-  85% {
-    content: "Scroll down to learn more about myse";
-  }
-
-  87% {
-    content: "Scroll down to learn more about mysel";
-  }
-
-  90% {
-    content: "Scroll down to learn more about myself";
-  }
-
-  92% {
-    content: "Scroll down to learn more about myself!";
-  }
-
-  100% {
-    content: "Scroll down to learn more about myself!";
   }
 }
