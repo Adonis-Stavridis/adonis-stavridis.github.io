@@ -50,9 +50,9 @@ export class Projects extends Component {
                   />
                 </Card.Text>
                 <Card.Text>
-                  A fun project to develop a small Visual Studio Code extension
-                  that allows to add the famous internet character Doge and his
-                  friends
+                  A WIP project to develop a Visual Studio Code extension to add
+                  the famous internet character Doge and his friends into the
+                  IDE
                 </Card.Text>
               </Card.Body>
               <Card.Footer>
@@ -63,6 +63,14 @@ export class Projects extends Component {
                   block
                 >
                   Source code
+                </Button>
+                <Button
+                  href="https://marketplace.visualstudio.com/items?itemName=Adonis-Stavridis.doge"
+                  target="_blank"
+                  variant="warning"
+                  block
+                >
+                  Website
                 </Button>
               </Card.Footer>
             </Card>
@@ -99,7 +107,7 @@ export class Projects extends Component {
                   />
                 </Card.Text>
                 <Card.Text>
-                  A small project to build an online personal website as a
+                  A WIP project to build an online personal website as a
                   portfolio for my entire work
                 </Card.Text>
               </Card.Body>
@@ -181,7 +189,9 @@ export class Projects extends Component {
                 </Button>
               </Card.Footer>
             </Card>
+          </CardColumns>
 
+          <CardColumns className="cardsDeck">
             <Card className="projectCard">
               <Card.Header as="h3">Shared Database</Card.Header>
               <Card.Img
