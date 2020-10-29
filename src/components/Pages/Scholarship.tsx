@@ -24,8 +24,7 @@ export class Scholarship extends Component {
               Main Courses:
               <br />
               Compilation · Advanced Algorithmic · 3D Graphics Programming ·
-              Architecture and Web Development · Computer Security ·
-              Computer-Aided Proving · Statistics
+              Architecture and Web Development · Computer Vision · Computer Security · Computer-Aided Proving
             </p>
           </Jumbotron>
 

@@ -33,11 +33,16 @@ export class Projects extends Component {
                   Doge
                   <img
                     className="codeBadge"
-                    src="https://img.shields.io/visual-studio-marketplace/d/adonis-stavridis.doge?color=gold&label=Downloads&logo=visual-studio-code"
+                    src="https://img.shields.io/visual-studio-marketplace/i/adonis-stavridis.doge?color=gold&label=Installs&logo=visual-studio-code"
                     alt="Downloads"
                   />
                 </Card.Title>
                 <Card.Text>
+                  <img
+                    className="codeBadge"
+                    src="https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white"
+                    alt="Visual Studio Code"
+                  />
                   <img
                     className="codeBadge"
                     src="https://img.shields.io/badge/-TypeScript-dodgerblue?style=flat&logo=TypeScript&logoColor=white"
@@ -45,13 +50,22 @@ export class Projects extends Component {
                   />
                   <img
                     className="codeBadge"
-                    src="https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white"
-                    alt="Visual Studio Code"
+                    src="https://img.shields.io/badge/-JavaScript-goldenrod?style=flat&logo=JavaScript&logoColor=white"
+                    alt="JavaScript"
+                  />
+                  <img
+                    className="codeBadge"
+                    src="https://img.shields.io/badge/-HTML5-tomato?style=flat&logo=HTML5&logoColor=white"
+                    alt="HTML5"
+                  />
+                  <img
+                    className="codeBadge"
+                    src="https://img.shields.io/badge/-CSS3-darkblue?style=flat&logo=CSS3&logoColor=white"
+                    alt="CSS3"
                   />
                 </Card.Text>
                 <Card.Text>
-                  A WIP project to develop a Visual Studio Code extension to add
-                  the famous internet character Doge and his friends into the
+                  A project to develop a Visual Studio Code extension to add   the famous internet character Doge and his friends into the
                   IDE
                 </Card.Text>
               </Card.Body>
@@ -107,7 +121,7 @@ export class Projects extends Component {
                   />
                 </Card.Text>
                 <Card.Text>
-                  A WIP project to build an online personal website as a
+                  A project to build an online personal website as a
                   portfolio for my entire work
                 </Card.Text>
               </Card.Body>
@@ -239,7 +253,7 @@ export class Projects extends Component {
                 <Card.Text>
                   <img
                     className="codeBadge"
-                    src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"
+                    src="https://img.shields.io/badge/-JavaScript-goldenrod?style=flat&logo=JavaScript&logoColor=white"
                     alt="JavaScript"
                   />
                   <img
@@ -328,7 +342,7 @@ export class Projects extends Component {
                 <Card.Text>
                   <img
                     className="codeBadge"
-                    src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"
+                    src="https://img.shields.io/badge/-JavaScript-goldenrod?style=flat&logo=JavaScript&logoColor=white"
                     alt="JavaScript"
                   />
                   <img

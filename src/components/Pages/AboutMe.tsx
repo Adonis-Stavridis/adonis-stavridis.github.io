@@ -16,28 +16,19 @@ export class AboutMe extends Component {
             <img className="profilePhoto" src={MePhoto} alt="Me" />
             <div className="description">
               <p>
-                3rd year Student at the University of Strasbourg, currently
-                enrolled in a Bachelor of Science in Computer Science followed
-                by a Master of Science in Computer Graphics.
+                4th year Student at the University of Strasbourg, currently enrolled in a Master of Science in Computer Graphics, with a Bachelor of Science in Computer Science already acquired.
               </p>
               <p>
-                2+ years of experience in Software and Web Development with
-                knowledge in, but not limited to, Data Structures, Algorithms,
-                Object-Oriented Programming, Computer Architecture and
-                Networking and Game Development.
+                3+ years of experience in Software and Web Development with knowledge in, but not limited to, Data Structures, Algorithms, Object-Oriented Programming, Computer Architecture, Networking, Computer Graphics and Game Development.
               </p>
               <p>
-                Able to work alone and in a collaborative environment, but also
-                quickly adapt to any workflow.
+                Able to work alone and in a collaborative environment, and also able to quickly adapt to any workflow.
               </p>
               <p>
-                Interests include contributing to open-source projects, learning
-                about new technologies as well as playing the guitar and
-                volleyball.
+                Interests include contributing to open-source projects, learning about new technologies as well as playing the guitar and volleyball.
               </p>
               <p>
-                Fluent in English, French and Greek and proficient in Spanish
-                and German.
+                Fluent in English, French and Greek, and proficient in Spanish and German.
               </p>
             </div>
           </div>
