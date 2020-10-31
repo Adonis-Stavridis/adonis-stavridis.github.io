@@ -24,11 +24,11 @@ export class Contact extends Component {
                 </td>
                 <td>
                   <a
-                    href="https://goo.gl/maps/iY8gFawinvtWEWJQ6"
+                    href="https://goo.gl/maps/DXnkN3G2Ny3HFoK78"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    4 Passage Josette-Clotis, 67100
+                    12 Place Saint-Etienne, 67000
                     <br /> Strasbourg, France
                   </a>
                 </td>
