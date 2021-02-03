@@ -1,34 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.3d20e831.chunk.css",
-    "main.js": "/static/js/main.2af4567f.chunk.js",
-    "main.js.map": "/static/js/main.2af4567f.chunk.js.map",
+    "main.js": "/static/js/main.27b3ca5c.chunk.js",
+    "main.js.map": "/static/js/main.27b3ca5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b6e31e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b6e31e5.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d12e72ca.chunk.js": "/static/js/2.d12e72ca.chunk.js",
     "static/js/2.d12e72ca.chunk.js.map": "/static/js/2.d12e72ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5f0696e2794df0a9f7cbafd476ba8914.js": "/precache-manifest.5f0696e2794df0a9f7cbafd476ba8914.js",
+    "precache-manifest.a1322b8c6bf88f73ed51340fe8de0fad.js": "/precache-manifest.a1322b8c6bf88f73ed51340fe8de0fad.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.3d20e831.chunk.css.map": "/static/css/main.3d20e831.chunk.css.map",
     "static/js/2.d12e72ca.chunk.js.LICENSE.txt": "/static/js/2.d12e72ca.chunk.js.LICENSE.txt",
     "static/media/Home-logo.png": "/static/media/Home-logo.19ed7c8b.png",
-    "static/media/animaforumproject.jpg": "/static/media/animaforumproject.16644b3a.jpg",
-    "static/media/breakoutproject.png": "/static/media/breakoutproject.6f563ea4.png",
-    "static/media/chararecproject.png": "/static/media/chararecproject.0e5b7af8.png",
-    "static/media/cubosproject.png": "/static/media/cubosproject.5cb16bb1.png",
-    "static/media/datashareproject.png": "/static/media/datashareproject.eb82bcc6.png",
-    "static/media/dogeproject.png": "/static/media/dogeproject.9b3f012d.png",
-    "static/media/lifeofamirproject.png": "/static/media/lifeofamirproject.f47c6d25.png",
-    "static/media/me.jpeg": "/static/media/me.09cb2545.jpeg"
+    "static/media/animaforumproject.jpg": "/static/media/animaforumproject.eeacc5db.jpg",
+    "static/media/breakoutproject.png": "/static/media/breakoutproject.3cfdc14b.png",
+    "static/media/chararecproject.png": "/static/media/chararecproject.93508c61.png",
+    "static/media/datashareproject.png": "/static/media/datashareproject.e65d5136.png",
+    "static/media/dogeproject.png": "/static/media/dogeproject.05866760.png",
+    "static/media/lifeofamirproject.png": "/static/media/lifeofamirproject.df1cc104.png",
+    "static/media/me.jpeg": "/static/media/me.811ddbc0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.9b6e31e5.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d12e72ca.chunk.js",
     "static/css/main.3d20e831.chunk.css",
-    "static/js/main.2af4567f.chunk.js"
+    "static/js/main.27b3ca5c.chunk.js"
   ]
 }
