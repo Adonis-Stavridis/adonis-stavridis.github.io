@@ -6,12 +6,12 @@
     "runtime-main.js": "/static/js/runtime-main.c42812d7.js",
     "runtime-main.js.map": "/static/js/runtime-main.c42812d7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.389571a5.chunk.js": "/static/js/2.389571a5.chunk.js",
-    "static/js/2.389571a5.chunk.js.map": "/static/js/2.389571a5.chunk.js.map",
+    "static/js/2.8a06043f.chunk.js": "/static/js/2.8a06043f.chunk.js",
+    "static/js/2.8a06043f.chunk.js.map": "/static/js/2.8a06043f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.d8a2c69e.chunk.css.map": "/static/css/main.d8a2c69e.chunk.css.map",
-    "static/js/2.389571a5.chunk.js.LICENSE.txt": "/static/js/2.389571a5.chunk.js.LICENSE.txt",
+    "static/js/2.8a06043f.chunk.js.LICENSE.txt": "/static/js/2.8a06043f.chunk.js.LICENSE.txt",
     "static/media/Home-logo.8b8837b3.png": "/static/media/Home-logo.8b8837b3.png",
     "static/media/animaforumproject.1107e5bb.jpg": "/static/media/animaforumproject.1107e5bb.jpg",
     "static/media/breakoutproject.29d6ea09.png": "/static/media/breakoutproject.29d6ea09.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.c42812d7.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.389571a5.chunk.js",
+    "static/js/2.8a06043f.chunk.js",
     "static/css/main.d8a2c69e.chunk.css",
     "static/js/main.6cbc0f8a.chunk.js"
   ]
