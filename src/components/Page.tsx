@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 
 import "../css/Page.scss";
 
@@ -11,5 +11,3 @@ export class Page extends Component {
     );
   }
 }
-
-export default Page;

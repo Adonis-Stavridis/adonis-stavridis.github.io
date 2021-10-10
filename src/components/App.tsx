@@ -8,7 +8,7 @@ import Contact from "./Pages/Contact";
 
 import "../css/App.scss";
 
-function App() {
+export function App() {
   return (
     <div className="App">
       <Home />
@@ -20,5 +20,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

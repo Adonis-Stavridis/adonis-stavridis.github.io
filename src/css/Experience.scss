@@ -1,11 +1,6 @@
 .experienceInfo {
   margin: 2em;
   color: snow;
-
-  &.jumbotron {
-    background-color: #383838;
-    border-radius: 0.5em;
-  }
 }
 
 .positionTitle {
@@ -36,10 +31,6 @@
 @media (max-width:991px) {
   .experienceInfo {
     margin: 0em;
-
-    &.jumbotron {
-      margin-bottom: 2em;
-    }
   }
 
   .positionTitle {
