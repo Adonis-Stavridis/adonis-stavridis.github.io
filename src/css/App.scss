@@ -1,11 +1,27 @@
 html {
   scroll-behavior: smooth;
+  scrollbar-color: gold #282828;
+
+  ::-webkit-scrollbar {
+    background-color: #282828;
+    width: 0.9em;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: gold;
+    border: 0.25em solid #282828;
+    border-radius: 1em;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: tomato;
+  }
 }
 
 .App {
   background-color: #282828;
   font-size: calc(10px + 2vmin);
-
+  
   h1 {
     color: gold;
     font-weight: bold;
