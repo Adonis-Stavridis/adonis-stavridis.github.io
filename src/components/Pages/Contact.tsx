@@ -108,7 +108,7 @@ export class Contact extends Component {
 							<tr>
 								<td>
 									<a
-										href="https://www.linkedin.com/in/adonis-stavridis-profile/"
+										href="https://www.linkedin.com/in/adonis-stavridis/"
 										target="_blank"
 										rel="noopener noreferrer"
 									>
@@ -121,7 +121,7 @@ export class Contact extends Component {
 								</td>
 								<td>
 									<a
-										href="https://www.linkedin.com/in/adonis-stavridis-profile/"
+										href="https://www.linkedin.com/in/adonis-stavridis/"
 										target="_blank"
 										rel="noopener noreferrer"
 									>
