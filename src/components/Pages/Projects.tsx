@@ -5,8 +5,10 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 import DogeProject from "../../img/dogeproject.png";
+import SolarSystemProject from "../../img/solarsystemproject.png";
 import WebsiteProject from "../../img/websiteproject.png";
 import CubosProject from "../../img/cubosproject.png";
+import TetrisProject from "../../img/tetrisproject.png";
 import DatashareProject from "../../img/datashareproject.png";
 import ChararecProject from "../../img/chararecproject.png";
 import AnimaforumProject from "../../img/animaforumproject.jpg";
@@ -28,6 +30,80 @@ export class Projects extends Component {
 						<Row className="rowHandle" lg={3}>
 							<Col className="colHandle">
 								<Card className="projectCard" border="warning">
+									<Card.Header as="h3">NPM package</Card.Header>
+									<Card.Img
+										className="imgHandle"
+										variant="top"
+										src="https://i.imgur.com/eeA5TUl.gif"
+									/>
+									<Card.Body>
+										<Card.Title as="h2">
+											Caroumesh
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/npm/dt/caroumesh?color=gold&label=Downloads&logo=npm&logoColor=white"
+												alt="Downloads"
+											/>
+										</Card.Title>
+										<Card.Text>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-React-turquoise?style=flat&logo=React&logoColor=white"
+												alt="React"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-npm-CB3837?&style=flat&logo=npm&logoColor=white"
+												alt="npm"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-three.js-black?&style=flat&logo=three.js&logoColor=white"
+												alt="three.js"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-TypeScript-dodgerblue?style=flat&logo=TypeScript&logoColor=white"
+												alt="TypeScript"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-HTML5-tomato?style=flat&logo=HTML5&logoColor=white"
+												alt="HTML5"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-CSS3-darkblue?style=flat&logo=CSS3&logoColor=white"
+												alt="CSS3"
+											/>
+										</Card.Text>
+										<Card.Text>
+											A React component to display 3d models in a carousel-like
+											fashion
+										</Card.Text>
+									</Card.Body>
+									<Card.Footer>
+										<Button
+											className="linkButton"
+											href="https://github.com/Adonis-Stavridis/caroumesh"
+											target="_blank"
+											variant="success"
+										>
+											Source code
+										</Button>
+										<Button
+											className="linkButton"
+											href="https://www.npmjs.com/package/caroumesh"
+											target="_blank"
+											variant="warning"
+										>
+											Website
+										</Button>
+									</Card.Footer>
+								</Card>
+							</Col>
+							<Col className="colHandle">
+								<Card className="projectCard" border="warning">
 									<Card.Header as="h3">VS Code Extension</Card.Header>
 									<Card.Img
 										className="imgHandle"
@@ -40,7 +116,7 @@ export class Projects extends Component {
 											<img
 												className="codeBadge"
 												src="https://img.shields.io/visual-studio-marketplace/i/adonis-stavridis.doge?color=gold&label=Installs&logo=visual-studio-code"
-												alt="Downloads"
+												alt="Installs"
 											/>
 										</Card.Title>
 										<Card.Text>
@@ -71,9 +147,8 @@ export class Projects extends Component {
 											/>
 										</Card.Text>
 										<Card.Text>
-											A project to develop a Visual Studio Code extension to add
-											the famous internet character Doge and his friends into
-											the IDE
+											An extension to add the famous internet character Doge and
+											his friends into the IDE
 										</Card.Text>
 									</Card.Body>
 									<Card.Footer>
@@ -96,9 +171,72 @@ export class Projects extends Component {
 									</Card.Footer>
 								</Card>
 							</Col>
-
 							<Col className="colHandle">
 								<Card className="projectCard" border="warning">
+									<Card.Header as="h3">Interactive application</Card.Header>
+									<Card.Img
+										className="imgHandle"
+										variant="top"
+										src={SolarSystemProject}
+									/>
+									<Card.Body>
+										<Card.Title as="h2">Solar System</Card.Title>
+										<Card.Text>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-OpenGL-slategrey?style=flat&logo=OpenGL&logoColor=white"
+												alt="OpenGL"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-WebGL-990000?style=flat&logo=WebGL&logoColor=white"
+												alt="WebGL"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-JavaScript-goldenrod?style=flat&logo=JavaScript&logoColor=white"
+												alt="JavaScript"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-HTML5-tomato?style=flat&logo=HTML5&logoColor=white"
+												alt="HTML5"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-CSS3-darkblue?style=flat&logo=CSS3&logoColor=white"
+												alt="CSS3"
+											/>
+										</Card.Text>
+										<Card.Text>An interactive solar system</Card.Text>
+									</Card.Body>
+									<Card.Footer>
+										<Button
+											className="linkButton"
+											href="https://github.com/Adonis-Stavridis/Solar-System"
+											target="_blank"
+											variant="success"
+										>
+											Source code
+										</Button>
+										<Button
+											className="linkButton"
+											href="https://adonis-stavridis.github.io/Solar-System/"
+											target="_blank"
+											variant="warning"
+										>
+											Website
+										</Button>
+									</Card.Footer>
+								</Card>
+							</Col>
+						</Row>
+					</Container>
+
+					<Container className="cardsDeck">
+						<Row className="rowHandle" lg={3}>
+							<Col className="colHandle">
+								<Card className="projectCard">
 									<Card.Header as="h3">Personal website</Card.Header>
 									<Card.Img
 										className="imgHandle"
@@ -129,10 +267,7 @@ export class Projects extends Component {
 												alt="CSS3"
 											/>
 										</Card.Text>
-										<Card.Text>
-											A project to build an online personal website as a
-											portfolio for my entire work
-										</Card.Text>
+										<Card.Text>An online website and portfolio</Card.Text>
 									</Card.Body>
 									<Card.Footer>
 										<Button
@@ -146,9 +281,8 @@ export class Projects extends Component {
 									</Card.Footer>
 								</Card>
 							</Col>
-
 							<Col className="colHandle">
-								<Card className="projectCard" border="warning">
+								<Card className="projectCard">
 									<Card.Header as="h3">3D Modeling Software</Card.Header>
 									<Card.Img
 										className="imgHandle"
@@ -211,10 +345,44 @@ export class Projects extends Component {
 									</Card.Footer>
 								</Card>
 							</Col>
+							<Col className="colHandle">
+								<Card className="projectCard">
+									<Card.Header as="h3">Video Game</Card.Header>
+									<Card.Img
+										className="imgHandle"
+										variant="top"
+										src={TetrisProject}
+									/>
+									<Card.Body>
+										<Card.Title as="h2">Tetris</Card.Title>
+										<Card.Text>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-C++-blue?style=flat&logo=C%2B%2B&logoColor=white"
+												alt="C++"
+											/>
+											<img
+												className="codeBadge"
+												src="https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=CMake&logoColor=white"
+												alt="CMake"
+											/>
+										</Card.Text>
+										<Card.Text>A desktop game</Card.Text>
+									</Card.Body>
+									<Card.Footer>
+										<Button
+											className="linkButton"
+											href="https://github.com/Adonis-Stavridis/Cubos"
+											target="_blank"
+											variant="success"
+										>
+											Source code
+										</Button>
+									</Card.Footer>
+								</Card>
+							</Col>
 						</Row>
-					</Container>
 
-					<Container className="cardsDeck">
 						<Row className="rowHandle" lg={3}>
 							<Col className="colHandle">
 								<Card className="projectCard">
@@ -344,6 +512,7 @@ export class Projects extends Component {
 								</Card>
 							</Col>
 						</Row>
+
 						<Row className="rowHandle" lg={3}>
 							<Col className="colHandle">
 								<Card className="projectCard">

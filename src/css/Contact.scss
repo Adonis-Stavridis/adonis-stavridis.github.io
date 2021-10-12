@@ -1,6 +1,6 @@
 .contactLogo {
   width: calc(50px + 2vmin);
-  height: calc(50px + 2vmin);
+  height: auto;
 }
 
 .contactInfo {
@@ -23,10 +23,15 @@
 }
 
 @media (max-width:991px) {
+  .contactLogo {
+    width: calc(20px + 2vmin);
+    height: auto;
+  }
+
   .contactInfo {
     margin: 0em;
     table-layout: fixed;
-    width: 100%;
+    max-width: 100%;
 
     td {
       word-wrap: break-word;
