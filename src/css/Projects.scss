@@ -1,5 +1,5 @@
 .cardsDeck {
-  margin: 2em;
+  padding: 1em;
 }
 
 .projectCard {
@@ -10,7 +10,11 @@
   }
 }
 
-.imgPadding {
+.linkButton {
+  margin: 0.25em;
+}
+
+.imgHandle {
   padding: 0.5em;
 }
 
@@ -18,8 +22,17 @@
   margin: 0.25em;
 }
 
+.rowHandle {
+  margin-bottom: 1em;
+}
+
 @media (max-width:991px) {
   .cardsDeck {
-    margin: 0em;
+    padding: 0em;
+  }
+
+  .colHandle {
+    margin-top: 1em;
+    margin-bottom: 1em;
   }
 }
