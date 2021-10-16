@@ -93,7 +93,7 @@ export class Projects extends Component {
 										</Button>
 										<Button
 											className="linkButton"
-											href="https://www.npmjs.com/package/caroumesh"
+											href="https://adonis-stavridis.github.io/caroumesh-example/"
 											target="_blank"
 											variant="warning"
 										>
