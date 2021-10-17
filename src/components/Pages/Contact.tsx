@@ -38,7 +38,7 @@ export class Contact extends Component {
 										target="_blank"
 										rel="noopener noreferrer"
 									>
-										2 rue de la Colonne, 67100
+										2 rue de la colonne, 67100
 										<br /> Strasbourg, France
 									</a>
 								</td>

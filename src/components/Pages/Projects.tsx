@@ -372,7 +372,7 @@ export class Projects extends Component {
 									<Card.Footer>
 										<Button
 											className="linkButton"
-											href="https://github.com/Adonis-Stavridis/Cubos"
+											href="https://github.com/Adonis-Stavridis/Tetris"
 											target="_blank"
 											variant="success"
 										>

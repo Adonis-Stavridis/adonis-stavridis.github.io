@@ -16,15 +16,15 @@ export class AboutMe extends Component {
 						<img className="profilePhoto" src={MePhoto} alt="Me" />
 						<div className="description">
 							<p>
-								4th year Student at the University of Strasbourg, currently
+								5th year Student at the University of Strasbourg, currently
 								enrolled in a Master of Science in Computer Graphics, with a
 								Bachelor of Science in Computer Science already acquired.
 							</p>
 							<p>
-								3+ years of experience in Software and Web Development with
+								4+ years of experience in Software and Web Development with
 								knowledge in, but not limited to, Data Structures, Algorithms,
-								Object-Oriented Programming, Computer Architecture, Networking,
-								Computer Graphics and Game Development.
+								Object-Oriented Programming, Computer Architecture, Computer
+								Graphics and Game Development.
 							</p>
 							<p>
 								Able to work alone and in a collaborative environment, and also
