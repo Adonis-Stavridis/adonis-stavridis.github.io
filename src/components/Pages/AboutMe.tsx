@@ -1,7 +1,7 @@
 import { Component } from "react";
 import { Page } from "../Page";
 
-import MePhoto from "../../img/me.jpeg";
+import MePhoto from "../../img/me.png";
 
 import "../../css/AboutMe.scss";
 
