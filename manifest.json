@@ -1,24 +1,30 @@
 {
-  "short_name": "Adonis Stavridis",
-  "name": "Adonis Stavridis Website",
-  "icons": [{
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.jpg",
-      "type": "image/jpg",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.jpg",
-      "type": "image/jpg",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#282828",
-  "background_color": "#282828"
+	"short_name": "Adonis Stavridis",
+	"name": "Adonis Stavridis Website",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "/apple-touch-icon.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#282828",
+	"background_color": "#282828"
 }
