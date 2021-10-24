@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7447a77c.chunk.css",
-    "main.js": "/static/js/main.e81d8408.chunk.js",
-    "main.js.map": "/static/js/main.e81d8408.chunk.js.map",
+    "main.js": "/static/js/main.2199d644.chunk.js",
+    "main.js.map": "/static/js/main.2199d644.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9905702.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9905702.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
@@ -20,15 +20,15 @@
     "static/media/datashareproject.220ec4be.png": "/static/media/datashareproject.220ec4be.png",
     "static/media/dogeproject.5463a437.png": "/static/media/dogeproject.5463a437.png",
     "static/media/lifeofamirproject.ac98d31e.png": "/static/media/lifeofamirproject.ac98d31e.png",
-    "static/media/me.311a0972.png": "/static/media/me.311a0972.png",
-    "static/media/solarsystemproject.442c82eb.png": "/static/media/solarsystemproject.442c82eb.png",
-    "static/media/tetrisproject.cf851503.png": "/static/media/tetrisproject.cf851503.png"
+    "static/media/me.1fcedc9e.png": "/static/media/me.1fcedc9e.png",
+    "static/media/solarsystemproject.e315fa65.png": "/static/media/solarsystemproject.e315fa65.png",
+    "static/media/tetrisproject.9bb85e62.png": "/static/media/tetrisproject.9bb85e62.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b9905702.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.9a4c7b43.chunk.js",
     "static/css/main.7447a77c.chunk.css",
-    "static/js/main.e81d8408.chunk.js"
+    "static/js/main.2199d644.chunk.js"
   ]
 }
