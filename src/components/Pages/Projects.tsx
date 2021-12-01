@@ -7,7 +7,7 @@ import Button from "react-bootstrap/Button";
 import DogeProject from "../../img/dogeproject.png";
 import SolarSystemProject from "../../img/solarsystemproject.png";
 import WebsiteProject from "../../img/websiteproject.png";
-import CubosProject from "../../img/cubosproject.png";
+import CompilerProject from "../../img/compilerproject.png";
 import TetrisProject from "../../img/tetrisproject.png";
 import DatashareProject from "../../img/datashareproject.png";
 import ChararecProject from "../../img/chararecproject.png";
@@ -283,60 +283,30 @@ export class Projects extends Component {
 							</Col>
 							<Col className="colHandle">
 								<Card className="projectCard">
-									<Card.Header as="h3">3D Modeling Software</Card.Header>
+									<Card.Header as="h3">Compiler</Card.Header>
 									<Card.Img
 										className="imgHandle"
 										variant="top"
-										src={CubosProject}
+										src={CompilerProject}
 									/>
 									<Card.Body>
-										<Card.Title as="h2">Cubos</Card.Title>
+										<Card.Title as="h2">Scalpa</Card.Title>
 										<Card.Text>
 											<img
 												className="codeBadge"
-												src="https://img.shields.io/badge/-C++-blue?style=flat&logo=C%2B%2B&logoColor=white"
-												alt="C++"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-Qt-limegreen?style=flat&logo=Qt&logoColor=white"
-												alt="Qt"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-OpenGL-slategrey?style=flat&logo=OpenGL&logoColor=white"
-												alt="OpenGL"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-TypeScript-dodgerblue?style=flat&logo=TypeScript&logoColor=white"
-												alt="TypeScript"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-React-turquoise?style=flat&logo=React&logoColor=white"
-												alt="React"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-HTML5-tomato?style=flat&logo=HTML5&logoColor=white"
-												alt="HTML5"
-											/>
-											<img
-												className="codeBadge"
-												src="https://img.shields.io/badge/-CSS3-darkblue?style=flat&logo=CSS3&logoColor=white"
-												alt="CSS3"
+												src="https://img.shields.io/badge/-C-darkgrey?style=flat&logo=C&logoColor=white"
+												alt="C"
 											/>
 										</Card.Text>
 										<Card.Text>
-											A WIP project where I am building an easy to use 3D
-											modeling software
+											A compiler of a minimal grammar of the Pascal programming
+											language
 										</Card.Text>
 									</Card.Body>
 									<Card.Footer>
 										<Button
 											className="linkButton"
-											href="https://github.com/Adonis-Stavridis/Cubos"
+											href="https://github.com/Adonis-Stavridis/Mini-Pascal-Compiler"
 											target="_blank"
 											variant="success"
 										>
@@ -367,7 +337,7 @@ export class Projects extends Component {
 												alt="CMake"
 											/>
 										</Card.Text>
-										<Card.Text>A desktop game</Card.Text>
+										<Card.Text>A Tetris desktop game</Card.Text>
 									</Card.Body>
 									<Card.Footer>
 										<Button
@@ -402,10 +372,8 @@ export class Projects extends Component {
 											/>
 										</Card.Text>
 										<Card.Text>
-											An architecture of applications and servers that connect
-											and store information about users, using the network, with
-											message acquisition, server backup and server
-											synchronisation solutions
+											An architecture of client-server applications to store
+											data with backups
 										</Card.Text>
 									</Card.Body>
 									<Card.Footer>
@@ -448,8 +416,8 @@ export class Projects extends Component {
 											/>
 										</Card.Text>
 										<Card.Text>
-											An online application that tries to recognise a letter or
-											a number drawn by the user on a canvas
+											An online application to recognise a letter or a number
+											drawn by the user on a canvas
 										</Card.Text>
 									</Card.Body>
 									<Card.Footer>
@@ -495,8 +463,7 @@ export class Projects extends Component {
 											/>
 										</Card.Text>
 										<Card.Text>
-											A forum to talk about your favorite animals, with personal
-											accounts, topics and comments
+											A forum to talk about your favorite animals
 										</Card.Text>
 									</Card.Body>
 									<Card.Footer>
@@ -554,6 +521,14 @@ export class Projects extends Component {
 											variant="success"
 										>
 											Source code
+										</Button>
+										<Button
+											className="linkButton"
+											href="https://adonis-stavridis.github.io/Breakout/"
+											target="_blank"
+											variant="warning"
+										>
+											Website
 										</Button>
 									</Card.Footer>
 								</Card>
