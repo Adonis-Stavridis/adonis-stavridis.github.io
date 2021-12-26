@@ -3,8 +3,6 @@ import { Page } from "../Page";
 
 import "../../css/Contact.scss";
 
-import HomeLogo from "../../img/Home-logo.png";
-import PhoneLogo from "../../img/Phone-logo.png";
 import GMailLogo from "../../img/GMail-logo.png";
 import GitHubLogo from "../../img/GitHub-logo.png";
 import LinkedInLogo from "../../img/LinkedIn-logo.png";
@@ -18,31 +16,6 @@ export class Contact extends Component {
 
 					<table className="contactInfo">
 						<tbody>
-							<tr>
-								<td>
-									<a
-										href="https://goo.gl/maps/92ezbLcYhQcgeNig9"
-										target="_blank"
-										rel="noopener noreferrer"
-									>
-										<img
-											className="contactLogo"
-											src={HomeLogo}
-											alt="Home-logo"
-										/>
-									</a>
-								</td>
-								<td>
-									<a
-										href="https://goo.gl/maps/92ezbLcYhQcgeNig9"
-										target="_blank"
-										rel="noopener noreferrer"
-									>
-										2 rue de la colonne, 67100
-										<br /> Strasbourg, France
-									</a>
-								</td>
-							</tr>
 							<tr>
 								<td>
 									<a
@@ -65,20 +38,6 @@ export class Contact extends Component {
 									>
 										adonis.stavridis@gmail.com
 									</a>
-								</td>
-							</tr>
-							<tr>
-								<td>
-									<a href="tel:+33782505580">
-										<img
-											className="contactLogo"
-											src={PhoneLogo}
-											alt="Phone-logo"
-										/>
-									</a>
-								</td>
-								<td>
-									<a href="tel:+33782505580">(+33) 7 82 50 55 80</a>
 								</td>
 							</tr>
 							<tr>
