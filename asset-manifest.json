@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7447a77c.chunk.css",
-    "main.js": "/static/js/main.e8ce07e6.chunk.js",
-    "main.js.map": "/static/js/main.e8ce07e6.chunk.js.map",
+    "main.js": "/static/js/main.7865f4eb.chunk.js",
+    "main.js.map": "/static/js/main.7865f4eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9905702.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9905702.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
@@ -13,7 +13,6 @@
     "static/css/main.7447a77c.chunk.css.map": "/static/css/main.7447a77c.chunk.css.map",
     "static/js/2.6f027b18.chunk.js.LICENSE.txt": "/static/js/2.6f027b18.chunk.js.LICENSE.txt",
     "static/media/GMail-logo.8462987a.png": "/static/media/GMail-logo.8462987a.png",
-    "static/media/Home-logo.8b8837b3.png": "/static/media/Home-logo.8b8837b3.png",
     "static/media/animaforumproject.1107e5bb.jpg": "/static/media/animaforumproject.1107e5bb.jpg",
     "static/media/breakoutproject.29d6ea09.png": "/static/media/breakoutproject.29d6ea09.png",
     "static/media/chararecproject.869a37c3.png": "/static/media/chararecproject.869a37c3.png",
@@ -30,6 +29,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.6f027b18.chunk.js",
     "static/css/main.7447a77c.chunk.css",
-    "static/js/main.e8ce07e6.chunk.js"
+    "static/js/main.7865f4eb.chunk.js"
   ]
 }
